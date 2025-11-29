@@ -12,11 +12,7 @@ interface MessageListProps {
 
 export function MessageList({ messages, isLoading }: MessageListProps) {
   if (messages.length === 0) {
-    return (
-      <div className="flex items-center justify-center h-full text-gray-500 dark:text-gray-400">
-        <p>Send a message to start the conversation</p>
-      </div>
-    );
+    return null; // Don't show anything - let SuggestedQuestions component handle empty state
   }
 
   return (
