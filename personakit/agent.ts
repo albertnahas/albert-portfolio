@@ -4,7 +4,6 @@ import { createAgent } from "personakit";
  * Albert's portfolio AI agent configuration
  */
 export const agent = createAgent({
-  id: "albert-portfolio",
   name: "Albert",
 
   // Load personality from file for easier editing
