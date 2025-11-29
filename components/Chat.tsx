@@ -3,6 +3,7 @@
 import { useChatAgent } from "personakit/react";
 import { MessageList } from "./MessageList";
 import { InputBox } from "./InputBox";
+import { SuggestedQuestions } from "./SuggestedQuestions";
 
 export function Chat() {
   const {
@@ -16,10 +17,28 @@ export function Chat() {
     endpoint: "/api/chat",
   });
 
+  const handleSuggestionClick = (question: string) => {
+    // Set the input value and submit
+    const event = {
+      target: { value: question },
+    } as React.ChangeEvent<HTMLInputElement>;
+    handleInputChange(event);
+
+    // Submit after a brief delay to ensure state is updated
+    setTimeout(() => {
+      handleSubmit(new Event("submit") as any);
+    }, 10);
+  };
+
+  const showSuggestions = messages.length === 0 && !isLoading;
+
   return (
     <div className="flex flex-col h-[600px] border border-gray-200 dark:border-gray-800 rounded-lg overflow-hidden">
       <div className="flex-1 overflow-y-auto">
         <MessageList messages={messages} isLoading={isLoading} />
+        {showSuggestions && (
+          <SuggestedQuestions onQuestionClick={handleSuggestionClick} />
+        )}
       </div>
 
       {error && (
