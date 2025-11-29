@@ -1,59 +1,142 @@
 # Work Experience
 
-## Doctolib — Senior Frontend Engineer
-**2021 - Present | Paris, France**
+## Doctolib — Senior Front-End Engineer
+**January 2025 - Present | Amsterdam, Netherlands**
 
-Albert works at Doctolib, Europe's leading healthcare technology platform, serving over 80 million patients.
+Albert is currently leading front-end development at Doctolib, Europe's leading healthcare technology platform.
 
-**Key Contributions:**
-- Led front-end architecture initiatives for patient-facing applications
-- Built scalable React components used across multiple product teams
-- Improved performance and accessibility of core user flows
-- Mentored junior engineers and established frontend best practices
-- Worked with React, TypeScript, Next.js, and modern state management
+**Key Achievements:**
+- Leading front-end development for core features using React, TypeScript, and Generative AI tooling
+- Driving architectural decisions and contributing to the 2-year product and technical vision
+- Created AI adoption frameworks, prompting guidelines, and domain-wide AI documentation
+- Achieved 90% engineering adoption rate for AI-assisted coding
+- Led onboarding improvements, documented missing processes, and facilitated new engineer onboarding
+- Improved standups, retrospectives, guild processes, and team communication rituals
 
-**Technologies:** React, TypeScript, Next.js, GraphQL, Testing Library, CI/CD
+**Major Features Delivered:**
+- View/Edit team functionality
+- Team discoverability
+- Auto-save drafts
+- Message pinning
+- Voice messages
+- Image/document paste
+- Lazy message decryption
+- Insurance autofill
 
----
+**Technical Leadership:**
+- Identified and fixed critical production issues (performance, test issues, race conditions, latency, VPN failures)
+- Pair programmed with all team members
+- Mentored interns
+- Participated in hiring loops and candidate interviews
+- Coordinated cross-team projects with UX designers and backend engineers
 
-## Miro — Senior Frontend Engineer
-**2020 - 2021 | Amsterdam, Netherlands**
-
-At Miro, Albert contributed to the collaborative whiteboard platform used by millions of distributed teams worldwide.
-
-**Key Contributions:**
-- Developed real-time collaboration features for the Miro board
-- Optimized rendering performance for large-scale canvases
-- Built reusable UI components for the design system
-- Contributed to frontend infrastructure and tooling improvements
-
-**Technologies:** React, TypeScript, WebSockets, Canvas API, Real-time systems
-
----
-
-## LeasePlan — Frontend Engineer
-**2018 - 2020 | Amsterdam, Netherlands**
-
-Albert worked on enterprise fleet management systems at LeasePlan, one of the world's largest vehicle leasing companies.
-
-**Key Contributions:**
-- Built internal dashboards and data visualization tools
-- Modernized legacy applications with React and TypeScript
-- Improved developer experience with better tooling and documentation
-- Collaborated with backend teams to design REST APIs
-
-**Technologies:** React, TypeScript, Redux, D3.js, REST APIs
+**Technologies:** React, TypeScript, React Query, Redux, AI/LLM Integration, Testing, Agile
 
 ---
 
-## Earlier Experience
+## Miro — Senior Front-End Engineer
+**April 2023 - January 2025 (1 year 10 months) | Amsterdam, Netherlands**
 
-**Freelance Frontend Developer (2016 - 2018)**
-- Built web applications for startups and agencies
-- Specialized in React, Vue.js, and responsive design
-- Worked with clients across Europe and the Middle East
+Led front-end development for Miro's Enterprise platform, focusing on enhancing UI components and user management flows.
 
-**Full-Stack Developer at various startups (2014 - 2016)**
-- Worked on early-stage products and MVPs
-- Experience with Node.js, MongoDB, Firebase
-- Gained broad understanding of full-stack development
+**Key Contributions:**
+- Designed, developed, and maintained a comprehensive library of reusable front-end components using React and TypeScript
+- Enhanced platform scalability and performance
+- Ensured consistency across the platform with component library
+- Collaborated closely with product managers, designers, and backend engineers in Agile framework
+- Conducted regular live demonstrations and presentations to stakeholders
+- Mentored junior and mid-level engineers, fostering a culture of code quality and best practices
+
+**Technologies:** React, TypeScript, Component Architecture, Agile/Scrum, Mentorship
+
+---
+
+## LeasePlan — Senior Front-End Engineer
+**September 2021 - April 2023 (1 year 8 months) | Amsterdam, Netherlands**
+
+Engineered and launched global vehicle pricing applications used across 20+ countries.
+
+**Key Achievements:**
+- Successfully launched a global vehicle pricing application utilized in over 20 countries
+- Enabled real-time monitoring and dynamic pricing strategies
+- Implemented robust and scalable application architecture using React.js best practices
+- Continuously monitored and optimized application performance
+- Provided mentorship to junior developers on front-end best practices and code standards
+
+**Technologies:** React.js, Scrum, Performance Optimization
+
+---
+
+## ShortPoint — Technical Team Lead
+**January 2020 - September 2021 (1 year 9 months) | Dubai, United Arab Emirates**
+
+Led a team of developers creating a visual web builder used by 1,500+ companies and 15 million users globally.
+
+**Leadership Highlights:**
+- Led development team in creating and maintaining a user-friendly visual web builder using JavaScript
+- Managed development lifecycle for product impacting 15 million users globally
+- Implemented efficient bug tracking and resolution processes using Jira
+- Mentored and coached junior developers, facilitating promotion of two team members to mid-level roles
+
+**Technologies:** JavaScript, Jira, Slack, Zoom, Team Leadership
+
+---
+
+## ShortPoint — Senior Front-End Engineer
+**April 2019 - January 2020 (10 months) | Dubai, United Arab Emirates**
+
+Developed core features for visual web builder with focus on performance and usability.
+
+**Key Achievements:**
+- Developed core features for visual web builder using JavaScript
+- Contributed to product serving 1,500+ companies and 15M+ users
+- Implemented JavaScript performance optimizations resulting in 46% improvement in loading times
+- Collaborated effectively using Jira, Slack, and Zoom
+
+**Technologies:** JavaScript, Performance Optimization, Jira
+
+---
+
+## Bloooom (formerly Bloom) — Full Stack Engineer
+**May 2018 - April 2019 (1 year) | Beirut, Lebanon**
+
+Developed full-stack web and cross-platform mobile applications.
+
+**Key Contributions:**
+- Developed full-stack web applications using ASP.NET MVC and Angular
+- Built cross-platform mobile applications using Xamarin Forms
+- Improved performance and resolved key usability issues
+- Ensured consistent experience across iOS and Android
+
+**Technologies:** ASP.NET MVC, Angular, Xamarin Forms, iOS, Android
+
+---
+
+## Grind Design / New Horizons CLC — Web Developer & Instructor
+**July 2016 - May 2018 (1 year 11 months) | Beirut, Lebanon**
+
+Developed web solutions and provided technical instruction.
+
+**Technologies:** PHP, CodeIgniter, Slim Framework
+
+---
+
+## Accad Institute — Software Engineer
+**January 2013 - July 2016 (3 years 7 months) | Aleppo, Syria**
+
+Developed software/web applications and mobile apps, contributed to ERP project.
+
+**Technologies:** Java, Oracle DB, JSP, JSF, ADF, PhoneGap/Cordova
+
+---
+
+## Education
+
+**Bachelor's Degree, Computer Science**
+Aleppo University | 2010 - 2017
+
+## Certifications
+
+- **CS50 Certificate** - Harvard University (via edX/Cambridge, MA)
+- **EF SET English Certificate** - Score: 76/100 (C2 Proficient)
+- **Generative AI with Large Language Models** - Coursera / DeepLearning.AI
